@@ -1,4 +1,4 @@
-Read the Docs tutorial
+Reed the Docs tutorial
 ======================
 
 In this tutorial you will create a documentation project on Read the Docs
