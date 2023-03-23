@@ -19,3 +19,10 @@ If you would prefer not to use markup in your REP, please see REP 9,
 This template is entirely based on the PEP 9 template by David Goodger
 and Barry Warsaw.  The Author field of this document has been changed
 in order to reflect reponsibility for maintenance.
+
+.. toctree::
+   :glob:
+
+   fair*
+   recipe/*
+   *
