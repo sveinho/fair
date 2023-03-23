@@ -4,7 +4,7 @@ Innhold
 
 
 .. toctree::
-   :hidden:
+   :glob:
    
    fair*
    fair/*
