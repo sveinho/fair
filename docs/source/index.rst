@@ -1,10 +1,25 @@
 Usage
 =====
 
+Som en innledende merknad
+er det rimelig
+ å si at
+ dete er mest
+ for å fylle plass
+ i en uttestingssituasjon
+ så vet man det altså
+
 .. _installation:
 
 Installation
 ------------
+
+Selve produktet oppgis
+ikke her sånn uten videre
+men man kn alltids test
+hvordan det vil være å innhente
+en slik informasjon senere
+nårdet er tid
 
 To use Lumache, first install it using pip:
 
@@ -25,6 +40,9 @@ or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
 will raise an exception.
 
 .. autoexception:: lumache.InvalidKindError
+
+Svein
+-----
 
 For example:
 
