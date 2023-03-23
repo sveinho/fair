@@ -1,3 +1,5 @@
+Intro
+=====
 This REP provides a boilerplate or sample template for creating your
 own reStructuredText REPs.  In conjunction with the content guidelines
 in REP 1 [1]_, this should make it easy for you to conform your own
