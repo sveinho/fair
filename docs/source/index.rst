@@ -656,12 +656,11 @@ Copyright
 This document has been placed in the public domain.
 
 
-
-..
-   Local Variables:
-   mode: indented-text
-   indent-tabs-mode: nil
-   sentence-end-double-space: t
-   fill-column: 70
-   coding: utf-8
-   End:
+.. toctree::
+   :maxdepth: 2
+
+   intro
+   strings
+   datatypes
+   numeric
+   (many more documents listed here)
