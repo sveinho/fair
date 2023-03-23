@@ -1,3 +1,5 @@
+se https://fair-docs.readthedocs.io/en/latest/
+
 Template for the Read the Docs tutorial
 =======================================
 
