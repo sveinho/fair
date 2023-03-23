@@ -1,48 +1,12 @@
-======================
-|theme_display| Sample
-======================
+Template for the Read the Docs tutorial
+=======================================
 
-This is a demo site for |theme_display|, generated as part of
-`Sphinx Themes Gallery <https://sphinx-themes.org>`_.
+This GitHub template includes fictional Python library
+with some basic Sphinx docs.
 
-.. important::
+Read the tutorial here:
 
-    This sample documentation was generated on |today|, and is rebuilt weekly.
-
-
-Quickstart
-==========
-
-1. Install this theme:
-
-   .. theme-install::
-
-2. Set the following in your existing Sphinx documentation's ``conf.py`` file:
-
-   .. theme-configuration::
-
-3. Build your Sphinx documentation with the new theme! [1]_
-
-
-Documentation
-=============
-
-|theme_documentation_message|
-
-
-Exploration
-===========
-
-The :doc:`kitchen-sink/index` section contains pages that contains basically
-everything that you can with Sphinx "out-of-the-box".
-
-.. toctree::
-    :titlesonly:
-
-    kitchen-sink/index
-
-Browsing through that section should give you a good idea of how stuff looks
-in this theme.
+https://docs.readthedocs.io/en/stable/tutorial/
 
 
 Navigation
