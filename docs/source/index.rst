@@ -687,16 +687,3 @@ and Read the Docs:
 
 Happy documenting!
 
-.. note::
-
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
-   papi
-   ipa
