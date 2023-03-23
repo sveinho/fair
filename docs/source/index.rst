@@ -24,5 +24,5 @@ in order to reflect reponsibility for maintenance.
    :glob:
 
    fair*
-   recipe/*
+   /*
    *
