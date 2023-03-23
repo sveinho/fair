@@ -3,6 +3,8 @@ IPA
 ===
 
 .. autosummary::
-   :toctree: generated
+.. toctree::
 
-   lumache
+   usage
+   api
+   ipa
