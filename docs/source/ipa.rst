@@ -1,4 +1,5 @@
-API
+
+IPA
 ===
 
 .. autosummary::
