@@ -1,3 +1,6 @@
+webadresse: https://fair-docs.readthedocs.io/en/latest/
+
+Startpoint:
 Template for the Read the Docs tutorial
 =======================================
 
