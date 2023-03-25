@@ -7,7 +7,6 @@ like this::
     `single-quoted' or ``double-quoted''
 
 Backquotes
-----------
 are significant in reStructuredText, so this practice
 should be avoided.  For ordinary text, use ordinary 'single-quotes' or
 "double-quotes".  For inline literal text (see `Inline Markup`_
