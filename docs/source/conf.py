@@ -17,10 +17,6 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-]
-
-extensions = [
-    ...
     'sphinx_rtd_theme',
 ]
 
