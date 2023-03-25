@@ -1,5 +1,5 @@
 Fisk
-=========
+====
 
 REP submissions come in a wide variety of forms, not all adhering
 to the format guidelines set forth below.  Use this template, in
