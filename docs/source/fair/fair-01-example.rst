@@ -1,10 +1,6 @@
-=========================================
 ReStructuredText (rst): plain text markup
 =========================================
 
-.. sectnum::
-
-.. contents:: The tiny table of contents
 
 What is reStructuredText?
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -69,18 +65,3 @@ Show me some more stuff, please
 We can also include figures:
 
 .. figure:: image.png
-   :width: 300pt
-
-
-   The magnetisation in a small ferromagnetic disk. The diametre is of the order of 120 nanometers and the material is Ni20Fe80. Png is a file format that is both acceptable for html pages as well as for (pdf)latex.
-
----------------------------------------------------------------------------
-
-.. [1] although there isn't much point of using a footnote here.
-
-.. [2] Random facts: 
-
-  - Emacs provides an rst mode 
-  - when converting rst to html, a style sheet can be provided (there is a similar feature for latex)
-  - rst can also be converted into XML
-  - the recommended file extension for rst is ``.txt``
