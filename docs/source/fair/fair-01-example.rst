@@ -3,7 +3,7 @@ ReStructuredText (rst): plain text markup
 
 
 What is reStructuredText?
-~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------
 
 An easy-to-read, what-you-see-is-what-you-get plaintext markup syntax
 and parser system, abbreviated *rst*. In other words, using a simple
@@ -16,7 +16,7 @@ text editor, documents can be created which
   - latex (and therefore pdf)
 
 What is it good for?
-~~~~~~~~~~~~~~~~~~~~
+--------------------
 
 reStructuredText can be used, for example, to
 
@@ -52,7 +52,7 @@ as well.
 
 
 Where can I learn more?
-~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------
 
 reStructuredText is described at
 http://docutils.sourceforge.net/rst.html. We provide some geeky small
@@ -60,9 +60,9 @@ print in this footnote [2]_.
 
 
 Show me some more stuff, please
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------
 
 We can also include figures:
 
 .. figure:: image.png
-width= 300px
+width= 100px
