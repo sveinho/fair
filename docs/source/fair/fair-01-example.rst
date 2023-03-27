@@ -65,4 +65,3 @@ Show me some more stuff, please
 We can also include figures:
 
 .. figure:: image.png
-width= 100px
