@@ -1,11 +1,7 @@
-se https://fair-docs.readthedocs.io/en/latest/
+framsida ser du på https://fair-docs.readthedocs.io/en/latest/
 
-Template for the Read the Docs tutorial
-=======================================
+Innnholdsdokumenter legges i mappa source/fair/ og bør være formatert som ReStructuredText. Dokument som begynner på "fair" i filnavn vil vises, ikke andre filnavn. 
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
+Tutorial:
 
 https://docs.readthedocs.io/en/stable/tutorial/
