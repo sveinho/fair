@@ -17,10 +17,10 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'sphinx-pdj-theme',
+    'sphinx_pdj_theme',
 ]
 
-html_theme = "sphinx-pdj-theme"
+html_theme = "sphinx_pdj_theme"
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
